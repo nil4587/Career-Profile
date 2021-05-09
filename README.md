@@ -5,7 +5,6 @@
 
 - I'm looking for an iOS developer position, or a full-stack position with a focus on iOS, iPad OS, Watch OS, MAC OS, TV OS application development. I'm open to trying new technologies but I'm highly experienced in iOS application development. I have also experience of 2/3 months in react-native application development and have taken training in PYTHON.
 
-
 **Specialities:** 
 Application Analysis: Estimation, Research, Development, Deployment, Maintenance and User Demo. Database design for mobile development and client communication, code reviews, mentoring & helping team members, application architecture, web service architecture for the mobile end.
 
