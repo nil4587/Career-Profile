@@ -21,14 +21,15 @@ GIT, SVN, Trello, JIRA, Confluence, Basecamp, TFS, Microsoft Office, Zeplin, Azu
 Attended various in-house trainings on Python, React-native in past.
 
 **Summary:**
-- 12+ Years of IT experience
-- 12 years of relevant experience in iOS application development including iWatch app. (iOS Native, Objective C, Swift)
+- 13 Years of IT experience
+- 12+ years of relevant experience in native iOS application development including iWatch app.(Objective C, Swift, SwiftUI)
+- Experience in Application Requirements analysis - Estimation, Research, Development, Deployment, Maintenance. 
 - Experience of working for different app categories (Finance, Business, Utility, Health & Fitness, Beauty, Productivity, Travel, Lifestyle, Medical, Quiz, News, Entertainment etc.)
-- Experience of Designing, development and maintenance work for the native iOS applications. 
-- Experience of iOS Architectures Patterns (MVC, MVVM), coding standards, and other development policies.
-- Experience in agile project management methodologies and tools (Trello, JIRA, Confluence, Basecamp, TFS, Git, SVN etc.)
-- Experience of handling & managing team
-- Experience in estimation of project works
-- Knowledge of data encryption methods and implementations
-- Experience in Code review and communication with clients
-- Quick learning and adapting capabilities of new techniques & technologies
+- Experience in agile project management methodologies and tools (JIRA, Confluence, Basecamp, TFS, Git, SVN, Dynatrace, Elastic Search, Kibana, Service Now, Jenkins, Trello, etc.)
+- Experience of iOS Architectural Patterns (MVC, MVVM) and other Design Patterns.
+- Experience of working closely with backend team for designing web-services for the mobile apps.
+- Experience of mentoring other developers and managing a small team of developers.
+- Knowledge of data encryption methods and implementations.
+- Experience of database design for mobile apps, code reviews, application architecture, code review and clients communication wherever requires.
+- Experience of working in a self-driven, complex environment with multiple and changing priorities
+- Quick learning and adapting capabilities of new techniques & technologies.
