@@ -11,14 +11,17 @@ Application Analysis: Estimation, Research, Development, Deployment, Maintenance
 **Primary Skill & Languages:**
 Objective C, Swift, SwiftUI
 
+**Secondary Skill & Languages:**
+Beginner: Flutter, Dart
+
 **IDE & Database:**
-XCode, Visual Studio Code, Core-Data, SQLite
+XCode, Visual Studio Code, Core-Data, SQLite, Android Studio Code
 
 **Source Control & Project Management Tools:**
-GIT, SVN, Trello, JIRA, Confluence, Basecamp, TFS, Microsoft Office, Zeplin, Azure for automation
+GitHub/Git, SVN, Sourcetree, Trello, Jira, Confluence, Basecamp, TFS, Microsoft Office, Zeplin, Azure for automation
 
 **Professional Certifications/ Trainings:**
-Attended various in-house trainings on Python, React-native in past.
+Attended various in-house trainings on Python, React-native, CI/CD in past.
 
 **Summary:**
 - 13 Years of IT experience
