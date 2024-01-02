@@ -1,5 +1,5 @@
 👋 
-- I completed my study in, B.E. Computer: 12+ Years of experience in iOS Application development. I have a working knowledge of product & services orient industries. Till today, I have worked for more than 50 projects in different domains and for different application categories.
+- I completed my study in, B.E. Computer: 13+ Years of experience in iOS Application development. I have a working knowledge of product & services orient industries. Till today, I have worked for more than 50 projects in different domains and for different application categories.
 
 - My strongest skills are to develop iOS applications. I had started my career with iOS 3.0 in 2010 and in past, I have also worked with some very knowledgeable people at the beginning of my career. In recent years, I learnt a lot by working on multiple projects simultaneously and have also spent some time to learn new technologies and languages.
 
@@ -24,8 +24,8 @@ GitHub/Git, SVN, Sourcetree, Trello, Jira, Confluence, Basecamp, TFS, Microsoft 
 Attended various in-house trainings on Python, React-native, CI/CD in past.
 
 **Summary:**
-- 13 Years of IT experience
-- 12+ years of relevant experience in native iOS application development including iWatch app.(Objective C, Swift, SwiftUI)
+- 14 Years of IT experience
+- 13+ years of relevant experience in native iOS application development including iWatch app.(Objective C, Swift, SwiftUI)
 - Experience of working for different app categories (Finance, Business, Utility, Health & Fitness, Beauty, Productivity, Travel, Lifestyle, Medical, Quiz, News, Entertainment, Food & delivery, etc.)
 - Experience in agile project management methodologies and tools (JIRA, Confluence, Basecamp, TFS, Git, SVN, Dynatrace, Elastic Search, Kibana, Service Now, Jenkins, Trello, etc.)
 - Experience in Application Requirements analysis - Estimation, Research, Development, Deployment, Maintenance.
